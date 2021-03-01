@@ -1,3 +1,3 @@
 # hello-world
 
-My name is Ian Bellerose.
+My name is Ian Bellerose and I like golf.
